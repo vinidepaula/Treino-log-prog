@@ -1,0 +1,23 @@
+
+Operadores relacionais
+> Maior que
+< Menor que
+>= Maior ou igual
+<= Menor ou igual
+<> Diferente
+= Igual
+
+
+Operadores Logicos
+E
+OU
+NÃO
+
+E: Obrigatorio cumprir todas as regras
+
+
+OU: Obrigatorio cumprir pelo menos uma regras
+
+
+NÃO: Verdadeiro :) Falso :(
+
